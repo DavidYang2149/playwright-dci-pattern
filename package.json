@@ -4,6 +4,14 @@
   "description": "for playwright dci(describe-context-it) pattern",
   "type": "module",
   "main": "index.js",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.js",
+      "require": "./index.cjs",
+      "default": "./index.js"
+    }
+  },
   "scripts": {
     "test": "playwright test"
   },
