@@ -1,0 +1,28 @@
+':sparkles: Feature':
+  - 'index.js'
+  - 'index.d.ts'
+':page_facing_up: Documentation':
+  - LICENSE
+  - README.md
+  - '**/*.md'
+':fire_extinguisher: Test':
+  - '**/*.test.jsx'
+  - '**/*.test.js'
+  - '**/*.spec.jsx'
+  - '**/*.spec.js'
+':package: Package':
+  - package-lock.json
+':gear: Environment':
+  - .github/**/*
+  - bin/**/*
+  - .eslintignore
+  - .eslintrc.json
+  - .gitignore
+  - .npmignore
+  - .nvmrc
+  - package.json
+  - renovate.json
+':police_officer: Security':
+  - SECURITY.md
+':lipstick: Design':
+  - '**/*.css'
