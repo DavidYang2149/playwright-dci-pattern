@@ -1,0 +1,23 @@
+# OSX
+.DS_Store
+
+# IDE
+.idea
+
+# npm
+node_modules
+package-lock.json
+
+# jest
+__snapshots__
+coverage
+test
+index.test.js
+test-results
+
+#doc
+CONTRIBUTING.md
+docs
+
+#other
+.github
