@@ -2,6 +2,7 @@
   "name": "@davidyang2149/playwright-dci",
   "version": "0.1.1",
   "description": "for playwright dci(describe-context-it) pattern",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "playwright test"
