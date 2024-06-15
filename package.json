@@ -1,0 +1,23 @@
+{
+  "name": "@playwright/dci-pattern",
+  "version": "0.1.0",
+  "description": "for playwright dci(describe-context-it) pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidYang2149/playwright-dci-pattern.git"
+  },
+  "keywords": [
+    "playwright",
+    "dci",
+    "describe-context-it"
+  ],
+  "author": "davidyang2149",
+  "license": "ISC"
+}
