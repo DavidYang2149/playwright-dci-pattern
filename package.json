@@ -1,6 +1,6 @@
 {
   "name": "@davidyang2149/playwright-dci",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "for playwright dci(describe-context-it) pattern",
   "type": "module",
   "main": "index.js",
