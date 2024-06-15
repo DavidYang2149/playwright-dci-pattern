@@ -12,4 +12,4 @@ function it(title, callback) {
   return test(title, callback);
 }
 
-module.exports = { describe, context, it };
+export { describe, context, it };
